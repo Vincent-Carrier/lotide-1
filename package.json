@@ -1,7 +1,8 @@
 {
-  "name": "lotide-1",
+  "name": "@vincentcarrier/lotide",
+  "author": "Vincent Carrier",
   "version": "1.0.0",
-  "description": "",
+  "description": "A shabby lodash clone",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
